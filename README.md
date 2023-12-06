@@ -1,0 +1,1 @@
+This is Smart Home Application To Control Light and every electric machine in home to utilize the electricity
